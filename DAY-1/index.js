@@ -20,7 +20,7 @@ function generateShayari() {
           .then(res => {
             const outputDiv = document.getElementById('output');
            
-            outputDiv.innerHTML = `<h2>Generated Output:</h2>   <h3>${res}</h3> `;
+            outputDiv.innerHTML = `<h2>Generated Output:    </h2>   <h3>${res}</h3> `;
           })
           .catch(error => console.error('Error:', error));
     } 
@@ -36,7 +36,7 @@ function generateShayari() {
           .then(response => response.text())
           .then(shayari => {
             const outputDiv = document.getElementById('output');
-            outputDiv.innerHTML = `<h2>Generated Output:</h2>   <h3>${shayari}</h3> `;
+            outputDiv.innerHTML = `<h2>Generated Output: ->  </h2>   <h3>${shayari}</h3> `;
           })
           .catch(error => console.error('Error:', error));
     }
@@ -52,7 +52,7 @@ function generateShayari() {
           .then(response => response.text())
           .then(shayari => {
             const outputDiv = document.getElementById('output');
-            outputDiv.innerHTML = `<h2>Generated Output:</h2>   <h3>${shayari}</h3> `;
+            outputDiv.innerHTML = `<h2>Generated Output:   </h2>   <h3>${shayari}</h3> `;
           })
           .catch(error => console.error('Error:', error));
     }
