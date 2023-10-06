@@ -1,0 +1,23 @@
+#output {
+    height: 50%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(216, 205, 205);
+    border: 1px solid #428b25;
+   color: rgb(7, 8, 8);
+   text-align: center;
+   text-decoration: underline;
+   text-transform: initial;
+  }
+
+  #inputText{
+    height: 50%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #df9494;
+    
+  }
