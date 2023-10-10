@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .code-input {
+    width: 45%;
+  }
+  
+  .output {
+    width: 45%;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+    color: whitesmoke;
+    background-color: rgb(37, 35, 35);
+  }
+  
+  .options {
+    margin-top: 20px;
+    text-align: right;
+
+  }
+  
+  button {
+    padding: 8px 16px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0 5px;
+  background-color: black;
+  color: whitesmoke;
+  }
+
+  button:hover {
+    background-color: #e63535;
+  }
+
+  body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  margin: 20px;
+}
+
+.code-input,
+.output {
+  width: 48%;
+  height: 100%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  border-radius: 5px;
+}
+
+.code-input {
+  border-right: none;
+}
+
+.output {
+  border-left: none;
+}
+
+textarea {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  resize: none;
+}
+
+.options {
+ 
+  text-align: right;
+  margin: auto;
+}
+
+
+
+/* Custom styling for select */
+#languageSelect {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  color: whitesmoke;
+  background-color: black;
+}
+
+
+
+/* Adjust the select styles */
+select {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  margin-right: 5px;
+}
