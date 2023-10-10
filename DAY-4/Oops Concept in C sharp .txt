@@ -1,0 +1,58 @@
+Oops Concept in C sharp 
+
+Basically oops having four pilar means four objectives
+
+Inheritance and polymorphism are fundamental concepts in object-oriented programming (OOP). They allow you to create hierarchies of classes and build flexible, extensible software.
+
+
+1. Inheritance
+
+
+Inheritance is a mechanism that allows you to define a new class based on an existing class, inheriting its properties and behaviors. The existing class is known as the base class or superclass, and the new class is the derived class or subclass.
+
+
+2. Polymorphism
+
+Polymorphism allows objects of different classes to be treated as objects of a common base class. It simplifies code and promotes flexibility. Two common forms of polymorphism in C# are method overriding and interfaces.
+
+3. Abstraction
+
+Data abstraction is the process of hiding certain details and showing only essential information to the user.
+Abstraction can be achieved with either abstract classes or interfaces (which you will learn more about in the next chapter).
+
+The abstract keyword is used for classes and methods:
+
+* Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+
+* Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the derived class (inherited from).
+
+4. Encapsulation
+
+Encapsulation is defined as the wrapping up of data and information under a single unit. It is the mechanism that binds together the data and the functions that manipulate them. In a different way, encapsulation is a protective shield that prevents the data from being accessed by the code outside this shield.
+
+* As in encapsulation, the data in a class is hidden from other classes, so it is also known as data hiding.
+
+* Encapsulation can be achieved by: Declaring all the variables in the class as private and using C# Properties in the class to set and get the values of variables.
+
+Advantages of Encapsulation:
+
+* Data Hiding: The user will have no idea about the inner implementation of the class. It will not be visible to the user that how the class is stored values in the variables. He only knows that we are passing the values to accessors and variables are getting initialized to that value.
+
+* Increased Flexibility: We can make the variables of the class as read-only or write-only depending on our requirements. If we wish to make the variables as read-only then we have to only use Get Accessor in the code. If we wish to make the variables as write-only then we have to only use Set Accessor.
+
+* Reusability: Encapsulation also improves the re-usability and is easy to change with new requirements.
+
+* Testing code is easy: Encapsulated code is easy to test for unit testing.
+
+
+
+===============================================================================
+
+### **Interfaces**
+
+An interface defines a contract that classes must adhere to. It contains method signatures that implementing classes must provide. Unlike abstract classes, a class can implement multiple interfaces.
+
+### **Abstract Classes**
+
+An abstract class is a class that cannot be instantiated on its own and is typically used as a base for other classes. Abstract classes can contain abstract methods, which are declared but not implemented in the base class. Derived classes must implement these abstract methods.
+
