@@ -1,0 +1,7 @@
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-3\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-3\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-3\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-3\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-3\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-3\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-3\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
