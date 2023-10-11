@@ -1,0 +1,7 @@
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.exe.config
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.exe
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.pdb
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.csproj.AssemblyReference.cache
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.exe
+C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.pdb
