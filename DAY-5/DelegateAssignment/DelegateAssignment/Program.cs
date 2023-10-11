@@ -32,7 +32,7 @@ namespace DelegateAssignment
             {
                 Console.WriteLine("Invalid input. Please enter a valid Number.");
             }
-
+             
             Console.ReadLine();
 
         }

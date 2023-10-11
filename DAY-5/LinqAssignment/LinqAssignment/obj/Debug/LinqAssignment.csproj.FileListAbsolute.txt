@@ -1,7 +1,0 @@
-C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\LinqAssignment\LinqAssignment\bin\Debug\LinqAssignment.exe.config
-C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\LinqAssignment\LinqAssignment\bin\Debug\LinqAssignment.exe
-C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\LinqAssignment\LinqAssignment\bin\Debug\LinqAssignment.pdb
-C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\LinqAssignment\LinqAssignment\obj\Debug\LinqAssignment.csproj.AssemblyReference.cache
-C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\LinqAssignment\LinqAssignment\obj\Debug\LinqAssignment.csproj.CoreCompileInputs.cache
-C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\LinqAssignment\LinqAssignment\obj\Debug\LinqAssignment.exe
-C:\Users\kunal\Desktop\TOOLS\Two-Weeks\DAY-5\LinqAssignment\LinqAssignment\obj\Debug\LinqAssignment.pdb
