@@ -1,0 +1,16 @@
+﻿@model List<BlogApp.Models.BlogPost>
+
+@{
+    ViewData["Title"] = "Blog Post";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<ul>
+    @foreach (var post in Model)
+    {
+        <li><a href="#">@post.Title</a> by @post.Author</li>
+    }
+</ul>
+
+
