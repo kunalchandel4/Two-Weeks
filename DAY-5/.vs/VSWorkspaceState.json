@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DelegateAssignment\\DelegateAssignment"
+    "\\BlogApp",
+    "\\BlogApp\\BlogApp",
+    "\\BlogApp\\BlogApp\\Controllers"
   ],
+  "SelectedNode": "\\BlogApp\\BlogApp\\Controllers\\BlogController.cs",
   "PreviewInSolutionExplorer": false
 }
